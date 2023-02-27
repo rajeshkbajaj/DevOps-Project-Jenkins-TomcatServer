@@ -13,4 +13,5 @@ created a AppLoadBalancer and added App server as Target group
 verified tomcat server status through "sudo systemctl status tomcat" and it was runing successfully
 started the tomcat server from /opt/tomcat/bin/startup.sh and accessed the webui from Appl Load Balancer DNS:8080.
 modefied the conf files to create user accounts
+index.jsp to modefied the webapp ui
 
